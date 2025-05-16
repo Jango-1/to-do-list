@@ -1,6 +1,6 @@
 import './styles.css';
 import createTodo from './modules/todo';
-import createProject from './modules/project';
+import createProjectFolder from './modules/project';
 
 const todos = [];
 
